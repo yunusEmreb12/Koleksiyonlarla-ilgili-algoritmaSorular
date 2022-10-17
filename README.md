@@ -1,0 +1,1 @@
+C# Ödev-2 (Koleksiyonlarla ilgili algoritma soruları)[https://app.patika.dev/courses/csharp-101/15-odev-2]
